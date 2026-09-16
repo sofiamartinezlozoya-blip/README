@@ -12,3 +12,4 @@ Welcome to the Computational Biomechanics Laboratory at Yale! This repository co
 - _TODO_ [Installing the Windows Subsystem for Linux (WSL)](wsl.md)
 - _TODO_ [Using svMultiPhysics](svmultiphysics.md)
 - [Installing SimVascular](simvascular.md)
+- [SimVascular Guide](simvascularguide.md)
